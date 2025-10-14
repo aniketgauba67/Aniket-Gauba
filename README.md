@@ -56,7 +56,7 @@ At Denison, I’ve explored how technology can empower people — from predictin
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/aniket-gauba/)  
-- [Email](mailto:aniketgauba@denison.edu)  
+- [Email](mailto:gauba_a1@denison.edu)  
 
 
 ---
