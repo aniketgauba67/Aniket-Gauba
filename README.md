@@ -1,169 +1,206 @@
-# 👋 Hi, I'm Aniket Gauba
+<div align="center">
 
-🎓 **Computer Science Graduate from Denison University**
-📊 Minors: **Data Analytics & Physics**
-📍 Granville, OH | Delhi, India
-💡 Interests: **AI • Full-Stack Development • Data Analytics • Robotics • Human-Computer Interaction • Consulting**
+# Aniket Gauba
 
----
+**CS · AI & Automation · Full-Stack Development · Data Analytics · Robotics**
 
-## 🧠 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-aniketgauba.com-0A66C2?style=flat-square)](https://www.aniketgauba.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket_Gauba-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-gauba/)
+[![Email](https://img.shields.io/badge/Email-gauba_a1%40denison.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gauba_a1@denison.edu)
 
-I’m passionate about building practical technology that connects **AI, data, automation, and human-centered design**.
+*Computer Science · Denison University · Minors in Data Analytics & Physics*  
+*Granville, OH · Delhi, India*
 
-My work spans full-stack applications, AI-powered workflows, data analytics, robotics research, and client-facing consulting projects. I enjoy turning messy real-world problems into systems that are easier to use, easier to understand, and easier to scale.
-
-I’m especially interested in roles at the intersection of **software engineering, AI solutions, technical operations, data products, and consulting**.
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### 🥫 AI-Powered Pantry Inventory Platform
-
-Built a cloud-hosted AI inventory and reporting platform for pantry operations across 20+ locations. The platform uses **Gemini API** to extract and classify inventory items from uploaded pantry photos, then validates and stores the results in structured workflows.
-
-**Tech:** React Native, Next.js, Python, PostgreSQL, AWS RDS, SQLAlchemy, Gemini API, Railway, Vercel
-
-**Highlights:**
-
-* Built role-based dashboards for volunteers, managers, and directors
-* Developed image-to-inventory AI workflows with validation and review logic
-* Added threshold monitoring, historical comparison, reporting, and chatbot-assisted support
-* Improved deployment reliability through backend error handling, testing, and CI/CD workflows
+Computer Science graduate with minors in Data Analytics and Physics. I build full-stack applications, AI-powered automation workflows, and data systems that replace manual overhead and surface clearer insight. My work spans cloud-hosted platforms, robotics research, and client-facing consulting — always focused on systems that are practical, well-engineered, and easy to act on.
 
 ---
 
-### 🤖 Human-Robot Collaboration Research
+## Currently Building & Exploring
 
-Conducted research on human-robot collaboration, trust, and creativity through robotic systems and controlled interaction studies.
-
-**Tech:** Python, Arduino, Dynamixel Servos, Luxonis OAK-D Cameras, 3D-Printed Components
-
-**Highlights:**
-
-* Built and tested robotic platforms using sensors, cameras, motors, and Arduino-driven workflows
-* Studied how verbal, non-verbal, and haptic feedback influence human trust and collaboration
-* Debugged hardware/software integration issues across motors, sensors, cameras, and mechanical assemblies
-* Translated research findings into technical reports and presentations
+- AI agents, multi-step automation, and structured workflow pipelines
+- Full-stack internal tools and operational platforms
+- Data products, reporting dashboards, and reproducible analytics
+- Human-centered AI and human-robot collaboration
+- Technical operations, support engineering, and solutions delivery
 
 ---
 
-### 📄 Capital Link AI Financial Audit Automation
+## Featured Projects
 
-Built an AI-powered workflow to automate financial audit data extraction from unstructured PDF reports.
+### AI-Powered Pantry Inventory Platform
 
-**Tech:** n8n, OpenAI API, Google Drive, Google Sheets, JavaScript, Structured Prompts
+Cloud-hosted platform serving 20+ pantry locations that turns uploaded photos into validated, structured inventory records using the Gemini API.
 
-**Highlights:**
+`React Native` `Next.js` `Python` `PostgreSQL` `AWS RDS` `SQLAlchemy` `Gemini API` `Railway` `Vercel`
 
-* Extracted, validated, and mapped financial data from audit PDFs into standardized templates
-* Used prompt engineering, validation checks, and structured JSON workflows
-* Reduced manual processing workload by an estimated 80–90%
-* Projected roughly 625 analyst hours saved annually
+- Role-based dashboards for volunteers, managers, and directors
+- Image-to-inventory AI pipeline with validation and review logic
+- Threshold monitoring, historical comparison, reporting, and chatbot support
+- CI/CD pipelines, backend error handling, and deployment reliability improvements
 
----
-
-### 🧩 PandOS: Lightweight Educational Operating System
-
-Developed a lightweight educational operating system in C using the µMPS3 simulator.
-
-**Tech:** C, µMPS3, Linux
-
-**Highlights:**
-
-* Implemented process management, scheduling, exception handling, interrupts, virtual memory, and device I/O
-* Built low-level synchronization and semaphore-based device communication
-* Debugged kernel behavior by tracing processor states, memory addresses, interrupts, and execution flow
+[GitHub →](https://github.com/aniketgauba67/GenAI_Inventory)
 
 ---
 
-### 🏏 IPL Match Score Prediction
+### Capital Link — AI Financial Audit Automation
 
-Built a predictive model to estimate IPL match outcomes using ball-by-ball cricket data.
+AI workflow that extracts and maps financial data from unstructured audit PDFs into standardized templates — eliminating an estimated 80–90% of manual processing.
 
-**Tech:** R, Quarto, cricketdata
+`n8n` `OpenAI API` `Google Drive` `Google Sheets` `JavaScript` `Structured Prompts`
 
-**Highlights:**
+- Structured JSON extraction pipeline with prompt engineering and validation checks
+- Projected ~625 analyst hours saved annually
+- End-to-end workflow from PDF input to formatted, reviewable output
 
-* Analyzed IPL data from 2008–2023
-* Modeled how overs remaining and wickets remaining influence final score
-* Created visualizations and statistical summaries to explain match outcome patterns
-
----
-
-### 🏙️ Williamsburg Gentrification Analysis
-
-Analyzed long-term housing and income trends to study neighborhood change.
-
-**Tech:** Python, Pandas, NumPy, Matplotlib, Zillow Data, ACS Data
-
-**Highlights:**
-
-* Analyzed 25+ years of housing and income data
-* Compared Williamsburg against control regions
-* Built reproducible data-cleaning and visualization workflows
-* Communicated findings through policy-focused visual analysis
+[Documentation](https://docs.google.com/document/d/1cnLXB6GBYjj12VM7ywrish1BqLbdaSM_EH5VFiwZmv8/edit?usp=sharing) · [Presentation](https://docs.google.com/presentation/d/1AGzFCn-xPvXdRooSCGJ6bR6ZUJyziX06cN3AlAjrRxo/edit?usp=sharing)
 
 ---
 
-## ⚙️ Technical Skills
+### Human-Robot Collaboration Research
 
-**Languages:** Python, JavaScript, TypeScript, C, C++, Java, SQL, R, HTML/CSS
+Robotic systems research studying how verbal, non-verbal, and haptic feedback influence human trust and creativity in human-robot interaction.
 
-**Frontend & Mobile:** React, React Native, Next.js, Tailwind CSS, Figma
+`Python` `Arduino` `Dynamixel Servos` `Luxonis OAK-D Cameras` `3D-Printed Hardware`
 
-**Backend & APIs:** Node.js, FastAPI, Flask, REST APIs, SQLAlchemy
-
-**Databases & Cloud:** PostgreSQL, MySQL, SQLite, AWS, AWS RDS, Docker, Railway, Vercel
-
-**AI & Automation:** OpenAI API, Gemini API, RAG Pipelines, OCR Pipelines, Prompt Engineering, n8n Workflows, AI-Assisted Development
-
-**Data & Analytics:** Pandas, NumPy, Jupyter Notebook, Quarto, Tableau, Power BI, Matplotlib
-
-**Systems & Robotics:** Linux, Arduino, Raspberry Pi, Dynamixel Servos, OAK-D Cameras, LiDAR, Sensor Integration, Hardware Debugging
-
-**Testing & Tools:** Pytest, Jest, Playwright, Git, GitHub Actions, CI/CD, VS Code, Postman, Xcode
+- Designed and assembled custom robotic platforms integrating cameras, motors, and sensors
+- Ran controlled interaction studies measuring trust and collaboration outcomes
+- Translated findings into technical reports and research presentations
 
 ---
 
-## 🧭 Experience & Leadership
+### PandOS — Lightweight Educational OS
 
-### 💼 Red Frame Lab — Student Project Manager
+Fully functional OS kernel built in C on the µMPS3 simulator, covering the full stack from process scheduling through virtual memory.
 
-Led client-facing consulting, analytics, AI automation, and implementation projects for nonprofit and corporate partners. Built dashboards, workflow automation, reports, and stakeholder-ready recommendations.
+`C` `µMPS3` `Linux`
 
-### 🧰 ITS Service Desk — Senior Student Technician
-
-Resolved 2,000+ technical support tickets across hardware, software, networking, classroom technology, account access, and endpoint issues. Documented recurring problems and supported repeatable troubleshooting workflows.
-
-### 🧑‍🏫 Teaching Assistant — Department of Computer Science & Mathematics
-
-Supported students through debugging assistance, office hours, grading, code reviews, and technical feedback.
-
-### 🏠 Community Advisor — Residential Community & Housing
-
-Supported 300+ residents through programming, resource referrals, conflict mediation, crisis response, and community engagement.
+- Implemented process management, scheduling, exception handling, and device I/O
+- Built semaphore-based synchronization and interrupt-driven kernel design
+- Debugged kernel behavior by tracing processor states, memory addresses, and execution flow
 
 ---
 
-## 🌱 Currently Exploring
+### IPL Match Score Prediction
 
-* AI agents and workflow automation
-* Full-stack internal tools and operational systems
-* Human-centered AI and human-robot collaboration
-* Data products, dashboards, and analytics workflows
-* Technical operations, support engineering, and solutions engineering
+Statistical model estimating final IPL match scores from ball-by-ball data (2008–2023), modeling the joint effect of overs and wickets remaining.
 
----
+`R` `Quarto` `cricketdata`
 
-## 📫 Connect With Me
-
-* [LinkedIn](https://www.linkedin.com/in/aniket-gauba/)
-* [Portfolio](https://www.aniketgauba.com/)
-* [GitHub](https://github.com/aniketgauba67)
-* [Email](mailto:gauba_a1@denison.edu)
+- Analyzed 15 seasons of match data and modeled score progression dynamics
+- Produced visualizations and statistical summaries explaining predictive patterns
 
 ---
 
-> “Building practical, human-centered technology at the intersection of AI, data, automation, and real-world problem solving.”
+### Williamsburg Gentrification Analysis
+
+25+ year housing and income trend study examining displacement patterns in Williamsburg against matched control regions.
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Zillow Data` `ACS Data`
+
+- Reproducible data pipeline for cleaning and comparing multi-source longitudinal data
+- Policy-focused visual analysis communicating findings to non-technical audiences
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Backend & Cloud**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+**AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Data & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+**Tools & Testing**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Experience
+
+| Role | Organization | Summary |
+|------|-------------|---------|
+| **Student Project Manager** | Red Frame Lab | Client-facing consulting for nonprofits and corporate partners — dashboards, AI automation, analytics, and stakeholder deliverables. |
+| **Senior Student Technician** | ITS Service Desk | Resolved 2,000+ support tickets across hardware, software, networking, and endpoint systems. Built documentation for repeatable troubleshooting. |
+| **Teaching Assistant** | CS & Mathematics, Denison | Debugging sessions, code reviews, office hours, and grading across CS and math coursework. |
+| **Community Advisor** | Residential Housing, Denison | Supported 300+ residents through programming, conflict mediation, crisis response, and community engagement. |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aniketgauba67&show_icons=true&hide_border=true&theme=default&count_private=true" height="160" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgauba67&layout=compact&hide_border=true&theme=default" height="160" alt="Top Languages" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/aniketgauba.com-181717?style=for-the-badge)](https://www.aniketgauba.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-gauba/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketgauba67)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauba_a1@denison.edu)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Building tools that turn hard problems into systems worth using.</sub>
+</div>
