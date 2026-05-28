@@ -180,9 +180,9 @@ Statistical model estimating final IPL match scores from ball-by-ball data (2008
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aniketgauba67&show_icons=true&hide_border=true&theme=default&count_private=true" height="160" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=aniketgauba67&hide_border=true&theme=default" height="160" alt="GitHub Streak" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgauba67&layout=compact&hide_border=true&theme=default" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgauba67&layout=compact&hide_border=true&theme=default&cache_seconds=1800" height="160" alt="Top Languages" />
 
 </div>
 
